@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'I used an AI to generate this post.'
-date:   2023-04-03 19:40:25 -0400
+date:   2023-04-03
 categories: ai vim llama
 ---
 
