@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  'Why switch to Haskell'
